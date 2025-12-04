@@ -1,0 +1,1 @@
+  printf("Iveskite seka is 10 nariu(-io)\n");

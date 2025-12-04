@@ -1,0 +1,61 @@
+QUERY1
+16
+Betty Sheen
+Victor Sadman
+Angelina Doe
+...
+
+QUERY2
+885
+Arnold Damon
+Betty Thornton
+Jim Darry
+...
+
+QUERY4
+Arnold Damon
+Jim Enderman
+Robert King
+...
+
+QUERY5
+254
+Arnold Damon
+Robert King
+Victor Damon
+...
+
+QUERY6
+544
+Arnold Damon
+Betty Thornton
+Jim Darry
+...
+
+QUERY7
+199
+Arnold Damon
+Betty Thornton
+Jim Darry
+...
+
+QUERY8
+83
+Jane Damon
+Debora Gibson
+George Stapleton
+...
+
+QUERY9
+251
+Betty Thornton
+Robert King
+Jim Perry
+...
+
+QUERY11
+560
+Arnold Damon
+Betty Thornton
+Jim Darry
+...

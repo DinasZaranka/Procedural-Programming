@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.asm": "assembly",
+        "cmath": "c",
+        "stdio.h": "c",
+        "assert.h": "c"
+    }
+}
